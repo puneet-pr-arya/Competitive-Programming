@@ -14,7 +14,7 @@ public:
 
             if (hp.count(ch))
             {
-                j = max(j, hp[ch] + 1);
+                j = i;
             }
 
             hp[ch] = i;
