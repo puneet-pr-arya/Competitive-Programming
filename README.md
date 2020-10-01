@@ -3,7 +3,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 This repository is the collection of all my submissions made on various competitive programming sites. Data Structures and algorithms have been implemented along the way.
-Below are some of the resources for beginner's.
 ## Syllabuses
 > Find out what topics you need to learn.
 
